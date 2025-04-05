@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+> _“If you really want to do something, you'll find a way. If you don't, you'll find an excuse.” - Jim Rohn._
 <!--
 **SecByteX/SecByteX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
