@@ -10,9 +10,7 @@
 ### TryHackMe
 
 
-<a href="https://tryhackme.com/p/bytex"><img src="https://tryhackme-badges.s3.amazonaws.com/bytex.png" alt="Your Image Badge" /></a>
-
-
+<img src="https://cdn-images.tryhackme.com/public-profile/bytex/badge-dark-d63a1c721224.png" alt="bytex's TryHackMe badge." width="400">
 </td>
 
   </tr>
